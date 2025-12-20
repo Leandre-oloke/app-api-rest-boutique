@@ -1,14 +1,14 @@
-import 'package:app_api_rest_boutique/page_acceuil.dart';
+import 'package:app_api_rest_boutique/pages/page_acceuil.dart';
 import 'package:app_api_rest_boutique/utils/app_constans.dart';
 import 'package:flutter/material.dart';
-import 'package:app_api_rest_boutique/page_compteur.dart';
+import 'package:app_api_rest_boutique/pages/page_compteur.dart';
 import 'package:app_api_rest_boutique/utils/routeur.dart';
 import 'package:app_api_rest_boutique/utils/theme_perso.dart';
 
 import 'package:flutter/material.dart';
 import 'utils/theme_perso.dart';
 import 'utils/routeur.dart';
-import 'page_compteur.dart';
+import 'pages/page_compteur.dart';
 
 void main() {
   runApp(MonAppli());
